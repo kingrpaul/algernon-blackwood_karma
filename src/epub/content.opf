@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/algernon-blackwood/karma</dc:identifier>
+		<dc:date>1900-01-01T00:00:00Z</dc:date>
+		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
+		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
+		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+		<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
+		<meta property="a11y:certifiedBy">Standard Ebooks</meta>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilityFeature">readingOrder</meta>
+		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityFeature">unlocked</meta>
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
+		<dc:title id="title">Karma</dc:title>
+		<meta property="file-as" refines="#title">Karma</meta>
+		<dc:subject id="subject-1">Horror tales</dc:subject>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85062084</meta>
+		<meta property="se:subject">Drama</meta>
+		<meta property="se:subject">Fantasy</meta>
+		<meta property="se:subject">Spirituality</meta>
+		<dc:description id="description">As the Great War nears its end, Phillip Lattin weighs the needs of his soulmate, in this their most recent life together against his nation’s call, in this play by Algernon Blackwood, which is at the same time a parable, a romance, and a work of wartime propaganda.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;As the Great War nears its end, Phillip Lattin weighs the needs of his soulmate, in this their most recent life together against his nation’s call, in this play by &lt;a href="https://standardebooks.org/ebooks/algernon-blackwood"&gt;Algernon Blackwood&lt;/a&gt;, which is at the same time a parable, a romance, and a work of wartime propaganda. The author was a popular and prolific English writer whose influence was acknowledged by both Lovecraft and Tolkein. Though often associated with “weird fiction,” he was a versatile writer whose work spans diverse genres, subjects, forms, and audiences, and found its way into books, magazines, journals, newspapers, onto the stage, radio and television. This play, &lt;i&gt;Karma&lt;/i&gt; would form the basis for his later story “Nephelé” and was co-authored by Violet Pearn with whom he would also adapt his novels &lt;i&gt;A Prisoner in Fairyland&lt;/i&gt; and &lt;i&gt;The Education of Uncle Paul&lt;/i&gt; into the plays &lt;i&gt;The Starlight Express&lt;/i&gt; and &lt;i&gt;Through The Crack&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;It was among Blackwood’s life goals to become a “holy man” and, as such, his spiritual journey was unique. His family’s beliefs were rooted in Evangelical Christianity of which he said “I was afraid they were true, not glad.” He was sent for education to the Moravian Brotherhood in the heart of the Black Forest where the “fairy life of the deep woods mingled more or less freely with the peasant life of the village” within sight of “gallows, where witches were hung in the old days.” Though he did not renounce Christianity, he taught himself Eastern philosophy from texts found among his father’s papers and considered himself Buddhist as he wrote about the Moravians for &lt;i&gt;Methodist Magazine&lt;/i&gt; in Canada. He would later write for the &lt;i&gt;Theosophical Review&lt;/i&gt; and &lt;i&gt;Occult Review&lt;/i&gt; as well. He wrote as one unimpressed after visiting a sprititualist camp in New England, then joined the &lt;i&gt;Hermetic Order of the Golden Dawn&lt;/i&gt; on returning to Britain. Christian and pagan themes share space throughout his writing: angels in rural England, Satan in the mountains, &lt;i&gt;Ka&lt;/i&gt; in the desert, old-god Pan in the forest. “The Old Man of Visions” narrates a spiritual awaking under mystic guidance while in “Picking Fir-Cones” he writes more as the mystic who does the guiding. So, when Blackwood addresses reincarnation in “Old Clothes,” and does so in near-prophetic terms in “The House of the Past,” it is with earnestness. When he writes &lt;i&gt;Karma: A Reincarnation Play&lt;/i&gt;, it is as a parable.&lt;/p&gt;
+			&lt;p&gt;Blackwood is not often thought of as a romantic writer and romance may seem an unlikely theme in his work. He was a lifelong bachelor and wrote of love for &lt;i&gt;McClures’s&lt;/i&gt; in detached terms, listing marriage among life’s attachments and possessions with which he declined to be “choked and worried.” Yet, he revisits the subject many times: the passion of hawk man and dove girl in “The Wings of Horus;” the playfulness of newlyweds in “Her Birthday” and jealousy in “The Kiss of a Psychologist;” a suitor proven true in “Testing His Courage,” trifled with in “The Story of Karl Ott,” engaged in “The Last Egg in the Nest;”—a widower unmoored in “The Temptation of the Clay.” Author, narrator, and protagonist generally speak with one voice in Blackwood’s work. So, it is poignant in “The Second Generation” when he writes of love lost, irretrievably foregone while adventuring and no less so in his ghost story “The Little Beggar” about his own imagined, unencarnated child.&lt;/p&gt;
+			&lt;p&gt;Taken together, Blackwood’s writing—fiction, non-fiction, and journalism—provide a narrative of the Great War: pre-war tensions in “Max Hensig” and “Accessory Before the Fact,” rage in “Vengeance Is Mine,” trauma in “The Memory of Beauty,” resiliance in “The Laughter of Courage,” and post-war malaise in “The Olive” and “The Tarn of Sacrifice.” Blackwood said of his stories that they were all somewhat autobiographical and during the war, he was a man in his 40s, well-traveled and German-speaking. Naturally he spied for his country, an experience he fictionalizes in “Onanonanon” in terms mystical but unglamorous. His character and alter ego Phillip Lattin thus is also a British agent and his story carries a seemingly-official moral for a war-weary people. But it carries also Blackwood’s own spiritual message and a story of romantic love, one that transcends the lifetimes of its lovers.&lt;/p&gt;
+		</meta>
+		<dc:language>en-GB</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/55611</dc:source>
+		<dc:source>https://archive.org/details/karmareincarnati00blacrich/</dc:source>
+		<meta property="se:production-notes">A number of the works were transcribed during production. Where the author uses unconventional capitazation with intent, this is retained.</meta>
+		<meta property="se:word-count">WORD_COUNT</meta>
+		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Algernon_Blackwood</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/algernon-blackwood_karma</meta>
+		<dc:creator id="author">Algernon Blackwood</dc:creator>
+		<meta property="file-as" refines="#author">Blackwood, Algernon</meta>
+		<meta property="se:name.person.full-name" refines="#author">Algernon Henry Blackwood</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Algernon_Blackwood</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50008491</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">aft</meta>
+		<dc:contributor id="contributor-to-karma">Violet Pearn</dc:contributor>
+		<meta property="file-as" refines="#contributor-to-karma">Pearn, Violet</meta>
+		<meta property="display-seq" refines="#contributor-to-karma">0</meta>
+		<meta property="se:name.person.full-name" refines="#contributor-to-karma">Violet Alice Pearn</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor-to-karma">https://en.wikipedia.org/wiki/Violet_Pearn</meta>
+		<meta property="se:url.authority.nacoaf" refines="#contributor-to-karma">http://id.loc.gov/authorities/names/nr96038292</meta>
+		<dc:contributor id="artist">Théodore Rousseau</dc:contributor>
+		<meta property="file-as" refines="#artist">Rousseau, Théodore</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Th%C3%A9odore_Rousseau</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n88606756</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-1">https://pgdp.net</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Paul King</dc:contributor>
+		<meta property="file-as" refines="#producer-1">King, Paul</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://kingrpaul.github.io/</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+	</metadata>
+	<manifest>
+		<item href="css/core.css" id="core.css" media-type="text/css"/>
+		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="css/se.css" id="se.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/karma.xhtml" id="karma.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+	</manifest>
+	<spine>
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
+		<itemref idref="karma.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+		<itemref idref="uncopyright.xhtml"/>
+	</spine>
+</package>

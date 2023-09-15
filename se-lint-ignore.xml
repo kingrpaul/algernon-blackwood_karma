@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="karma.xhtml">
+		<ignore>
+			<code>t-053</code>
+			<reason>inline direction after dash, matches page scan</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
